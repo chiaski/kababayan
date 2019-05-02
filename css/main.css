@@ -1,15 +1,17 @@
 /*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
 
-html {}
+html {
+    background: #10141d;
+}
 
 ::-moz-selection {
-    background: #b3d4fc;
-    text-shadow: none;
+    background: #ca2e32;
+    color: #fff;
 }
 
 ::selection {
-    background: #b3d4fc;
-    text-shadow: none;
+    background: #ca2e32;
+    color: #fff;
 }
 
 hr {
@@ -80,6 +82,7 @@ body {
     width: 100%;
     top: 0;
     left: 0;
+    background-position: center;
 }
 
 .box img {
@@ -92,6 +95,15 @@ body {
     min-width: 400px;
     box-sizing: border-box;
     overflow-x: hidden;
+}
+
+.box-center {
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
 
 
@@ -111,6 +123,10 @@ a:hover {
     text-shadow: 0 1px 20px #c6c5b8;
 }
 
+.accent a {
+    color: #fff;
+
+}
 
 /* THE GIRL */
 
