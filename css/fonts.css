@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('fonts/HKGrotesk-Regular.eot');
+    src: url('fonts/HKGrotesk-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/HKGrotesk-Regular.woff2') format('woff2'),
+        url('fonts/HKGrotesk-Regular.woff') format('woff'),
+        url('fonts/HKGrotesk-Regular.ttf') format('truetype'),
+        url('fonts/HKGrotesk-Regular.svg#HKGrotesk-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('fonts/HKGrotesk-Light.eot');
+    src: url('fonts/HKGrotesk-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/HKGrotesk-Light.woff2') format('woff2'),
+        url('fonts/HKGrotesk-Light.woff') format('woff'),
+        url('fonts/HKGrotesk-Light.ttf') format('truetype'),
+        url('fonts/HKGrotesk-Light.svg#HKGrotesk-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HK Grotesk';
+    src: url('fonts/HKGrotesk-Bold.eot');
+    src: url('fonts/HKGrotesk-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/HKGrotesk-Bold.woff2') format('woff2'),
+        url('fonts/HKGrotesk-Bold.woff') format('woff'),
+        url('fonts/HKGrotesk-Bold.ttf') format('truetype'),
+        url('fonts/HKGrotesk-Bold.svg#HKGrotesk-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Clearface';
+    src: url('fonts/ClearfaceBold.eot');
+    src: url('fonts/ClearfaceBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/ClearfaceBold.woff2') format('woff2'),
+        url('fonts/ClearfaceBold.woff') format('woff'),
+        url('fonts/ClearfaceBold.ttf') format('truetype'),
+        url('fonts/ClearfaceBold.svg#ClearfaceBold') format('svg');
+    font-weight: 100;
+    font-style: normal;
